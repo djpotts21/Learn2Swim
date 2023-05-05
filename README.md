@@ -8,7 +8,7 @@ The company, address, logo and information contained on the website are fictious
 
 ## Author
 - [@djpotts21](https://github.com/djpotts21)
-
+.
 
 ## About The Author [@djpotts21](https://github.com/djpotts21)
 I have worked as a web designer for several years in both in-house companies and agencies producing websites. During this time, I have used WordPress and various WordPress builders to build my websites.

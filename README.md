@@ -1,39 +1,48 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome,
+# Learn2Swim Website
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+A responsive website built in Bootstrap, HTML and CSS. The website and company are fictious and have been created for the purpose of Project/Milestone 1 'User Centric Frontend Development Milestone Project' of the Code Institute Level 5 Diploma in Web Application Development.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **March 3rd, 2023**
+The company, address, logo and information contained on the website are fictious.
 
-## Codeanywhere Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+## Author
+- [@djpotts21](https://github.com/djpotts21)
 
-`python3 -m http.server`
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## About The Author [@djpotts21](https://github.com/djpotts21)
+I have worked as a web designer for several years in both in-house companies and agencies producing websites. During this time, I have used WordPress and various WordPress builders to build my websites.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+Having worked with WordPress since 2011, I am very confident in my ability to build websites using WordPress. Through the Code Institute, I am currently pursuing a Level 5 Diploma in Web Application Development through the goal of expanding my knowledge and fine-tuning my HTML, CSS, and JS skills.
 
-`http_server`
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Demo
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+[Click here to view the site on my Git Pages](#)
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
-To log into the Heroku toolbelt CLI:
+## Features
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+TBC
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
 
----
+## Tech Stack
 
-Happy coding!
+TBC
+
+
+## Acknowledgements
+
+TBC
+
+## FAQ
+
+#### Question TBC
+
+Answer TBC
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at 131493188+djpotts21@users.noreply.github.com
+

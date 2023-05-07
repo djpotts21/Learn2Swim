@@ -32,7 +32,7 @@ Having worked with WordPress since 2011, I am very confident in my ability to bu
 [Homepage](assets/wireframe/3-_Mobile-Homepage-2x.png)
 [About](assets/wireframe/6-_Mobile-About-2x.png)
 [Timetable](assets/wireframe/9-_Mobile-Timetable-2x.png)
-[Contact](assets/wireframe/12-_Mobile-Contact-2x.png
+[Contact](assets/wireframe/12-_Mobile-Contact-2x.png)
 [Prices](assets/wireframe/15-_Mobile-Timetable-Copy-2x.png)
 
 ## Demo

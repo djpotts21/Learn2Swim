@@ -17,23 +17,23 @@ Having worked with WordPress since 2011, I am very confident in my ability to bu
 
 ## Wireframe
 ### Desktop View
-[Homepage](assets/wireframe/1-Homepage-2x.png)
-[About](assets/wireframe/4-About-2x.png)
-[Timetable](assets/wireframe/7-Timetable-2x.png)
-[Contact](assets/wireframe/10-Contact-2x.png)
-[Prices](assets/wireframe/13-Prices-2x.png)
+-[Homepage](assets/wireframe/1-Homepage-2x.png
+-[About](assets/wireframe/4-About-2x.png)
+-[Timetable](assets/wireframe/7-Timetable-2x.png)
+-[Contact](assets/wireframe/10-Contact-2x.png)
+-[Prices](assets/wireframe/13-Prices-2x.png)
 ### Tablet View
-[Homepage](assets/wireframe/2-_Tablet-Homepage-2x.png)
-[About](assets/wireframe/5-_Tablet-About-2x.png)
-[Timetable](assets/wireframe/8-_Tablet-Timetable-2x.png)
-[Contact](assets/wireframe/11-_Tablet-Contact-2x.png)
-[Prices](assets/wireframe/14-_Tablet-Prices-2x.png)
+-[Homepage](assets/wireframe/2-_Tablet-Homepage-2x.png)
+-[About](assets/wireframe/5-_Tablet-About-2x.png)
+-[Timetable](assets/wireframe/8-_Tablet-Timetable-2x.png)
+-[Contact](assets/wireframe/11-_Tablet-Contact-2x.png)
+-[Prices](assets/wireframe/14-_Tablet-Prices-2x.png)
 ### Mobile View
-[Homepage](assets/wireframe/3-_Mobile-Homepage-2x.png)
-[About](assets/wireframe/6-_Mobile-About-2x.png)
-[Timetable](assets/wireframe/9-_Mobile-Timetable-2x.png)
-[Contact](assets/wireframe/12-_Mobile-Contact-2x.png)
-[Prices](assets/wireframe/15-_Mobile-Timetable-Copy-2x.png)
+-[Homepage](assets/wireframe/3-_Mobile-Homepage-2x.png)
+-[About](assets/wireframe/6-_Mobile-About-2x.png)
+-[Timetable](assets/wireframe/9-_Mobile-Timetable-2x.png)
+-[Contact](assets/wireframe/12-_Mobile-Contact-2x.png)
+-[Prices](assets/wireframe/15-_Mobile-Timetable-Copy-2x.png)
 
 ## Demo
 
@@ -52,7 +52,12 @@ TBC
 
 ## Acknowledgements
 
-TBC
+### Media
+
+- Hero Banner of two children being taught swimming by a female teacher is taken from the user [Anilsharma26 on Pixabay](https://pixabay.com/photos/swimming-lessons-children-7339440/)
+- Keith Profile Photo is taken from the user [Keifit on Pixabay](https://pixabay.com/photos/sport-fitness-exercise-pilates-1685834/)
+- Samantha's Profile Photo is taken from the User [Tony Möörk on Pixabay](https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4036106)
+- Johan's Profile Photo is taken from the user [Image by Sam Williams on Pixabay](https://pixabay.com/users/10634669-10634669/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5552541)
 
 ## FAQ
 

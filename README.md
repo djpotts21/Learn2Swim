@@ -14,18 +14,23 @@ Having worked with WordPress since 2011, I am very confident in my ability to bu
 
 ## Wireframe
 ### Desktop View
--[Homepage](assets/wireframe/1-Homepage-2x.png
+
+-[Homepage](assets/wireframe/1-Homepage-2x.png)
 -[About](assets/wireframe/4-About-2x.png)
 -[Timetable](assets/wireframe/7-Timetable-2x.png)
 -[Contact](assets/wireframe/10-Contact-2x.png)
 -[Prices](assets/wireframe/13-Prices-2x.png)
+
 ### Tablet View
+
 -[Homepage](assets/wireframe/2-_Tablet-Homepage-2x.png)
 -[About](assets/wireframe/5-_Tablet-About-2x.png)
 -[Timetable](assets/wireframe/8-_Tablet-Timetable-2x.png)
 -[Contact](assets/wireframe/11-_Tablet-Contact-2x.png)
 -[Prices](assets/wireframe/14-_Tablet-Prices-2x.png)
+
 ### Mobile View
+
 -[Homepage](assets/wireframe/3-_Mobile-Homepage-2x.png)
 -[About](assets/wireframe/6-_Mobile-About-2x.png)
 -[Timetable](assets/wireframe/9-_Mobile-Timetable-2x.png)

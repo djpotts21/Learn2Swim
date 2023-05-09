@@ -261,6 +261,36 @@ footer {
     padding: 10px;
 }
 
+/* Sub Page Headers */
+.page-headers {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* TIMETABLE */
+/* Table */
+td.adult {
+    background-color: #ffc0cb73;
+}
+
+td.schools {
+    background-color: #ffa50080;
+}
+
+td.closed {
+    background-color: black;
+    color: #ffffff !important;
+}
+
+td.child {
+    background-color: #00800042;
+}
+
+/* Mobile Table Hide */
+.mobile-table-view {
+    display: none;
+}
+
 /* Mobile */
 @media only screen and (max-width: 768px) {
 
@@ -358,5 +388,16 @@ footer {
     .copyright,
     .socials {
         text-align: center;
+    }
+
+    /* TIMETABLE */
+    /* Desktop Table Hide */
+    .desktop-table-view {
+        display: none;
+    }
+
+    /* Desktop Table Hide */
+    .mobile-table-view {
+        display: table;
     }
 }

@@ -158,6 +158,11 @@ nav i {
         text-align: center;
     }
 
+    /* Hero Animation Disable */
+    .hero {
+        animation: none
+    }
+
     /* Hero Overlay */
     .overlayhero {
         position: absolute;

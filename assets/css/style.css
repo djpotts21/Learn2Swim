@@ -1,0 +1,190 @@
+* {
+    clear: both;
+    margin: 0;
+}
+
+body {
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+/*Fonts*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+nav {
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+/*Colors*/
+body {
+    color: #262626;
+}
+
+nav a {
+    color: #252E8A;
+}
+
+
+/*Nav Menu*/
+.logo img {
+    height: 120px;
+}
+
+.headerinner {
+    margin: 0;
+    max-width: 100%;
+}
+
+nav {
+    height: 120px;
+    width: 100%;
+    text-align: right;
+}
+
+.menu-item {
+    height: 120px;
+    padding-top: 30px;
+    display: inline-block;
+    text-align: center;
+    width: 19%;
+    transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+}
+
+nav a {
+    text-decoration: none;
+    font-weight: 400;
+}
+
+nav i {
+    display: block;
+    width: 100%;
+}
+
+.menu-item:hover,
+.menu-item.active {
+    font-weight: 400;
+    color: #f2f2f2;
+    background: #252E8A;
+}
+
+/* Main */
+.maininner {
+    clear: both;
+    padding: 0;
+    margin: 0;
+    max-width: 100%;
+}
+
+/* Hero */
+.hero {
+    background: url("/assets/images/swimming-lessons-7339440.jpg") center no-repeat;
+    background-size: cover;
+    height: 60vh;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+/* Hero Animation */
+.hero {
+    animation: herotransform 5s linear;
+    animation-fill-mode: forwards;
+
+}
+
+
+@keyframes herotransform {
+    0% {
+        background-size: 105%;
+
+    }
+
+    100% {
+        background-size: 100%;
+    }
+}
+
+/* Hero Overlay */
+.overlayhero {
+    position: absolute;
+    bottom: 40%;
+    left: 25%;
+    margin: auto;
+    width: 45%;
+}
+
+.overlayhero h1 {
+    padding: 2%;
+    background-color: #0000007a;
+    width: 100%;
+    text-align: center;
+    color: #f2f2f2;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+.overlayhero h2 {
+    padding: 2%;
+    background-color: #0000007a;
+    width: 100%;
+    text-align: center;
+    color: #f2f2f2;
+    text-transform: uppercase;
+    margin: 0;
+    font-size: 16px;
+}
+
+/* Mobile */
+@media only screen and (max-width: 768px) {
+
+    /*Nav*/
+    body {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .logo {
+        text-align: center;
+    }
+
+    /* Hero Overlay */
+    .overlayhero {
+        position: absolute;
+        bottom: 4%;
+        left: 5%;
+        margin: auto;
+        width: 90%;
+    }
+
+    .overlayhero h1 {
+        padding: 2%;
+        background-color: #0000007a;
+        width: 100%;
+        text-align: center;
+        color: #f2f2f2;
+        text-transform: uppercase;
+        margin: 0;
+    }
+
+    .overlayhero h2 {
+        padding: 2%;
+        background-color: #0000007a;
+        width: 100%;
+        text-align: center;
+        color: #f2f2f2;
+        text-transform: uppercase;
+        margin: 0;
+        font-size: 16px;
+    }
+}

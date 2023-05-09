@@ -54,11 +54,13 @@ nav {
     padding-top: 30px;
     display: inline-block;
     text-align: center;
-    width: 19%;
+    width: 15%;
+    margin-left: 10px;
     transition: all 0.5s ease-in-out;
     -moz-transition: all 0.5s ease-in-out;
     -webkit-transition: all 0.5s ease-in-out;
     -o-transition: all 0.5s ease-in-out;
+    background-color: #f2f2f2;
 }
 
 nav a {
@@ -79,10 +81,14 @@ nav i {
 }
 
 /* Main */
+.classesheader {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 .maininner {
     clear: both;
     padding: 0;
-    margin: 0;
     max-width: 100%;
     overflow: hidden;
 }
@@ -95,6 +101,7 @@ nav i {
     width: 100%;
     overflow: hidden;
     position: relative;
+    margin-top: 10px;
 }
 
 /* Hero Animation */
@@ -188,24 +195,23 @@ footer {
 }
 
 /* Main Classes */
-.classes {
-    margin-top: 20px;
-}
+
 
 .classleftcard {
     margin-right: 10px;
-    width: calc(33.33333333% - 10px);
+    width: calc(33.33333333% - 7.5px);
+    position: relative;
 }
 
-.classcentrecard {
-    margin-right: 10px;
-    margin-left: 10px;
-    width: calc(33.33333333% - 20px);
+.classcentercard {
+    width: calc(33.33333333% - 5px);
+    position: relative;
 }
 
 .classrightcard {
     margin-left: 10px;
-    width: calc(33.33333333% - 10px);
+    width: calc(33.33333333% - 7.5px);
+    position: relative;
 }
 
 .class-image {
@@ -215,6 +221,45 @@ footer {
     object-fit: cover;
 }
 
+.contact-btn {
+    width: 100%;
+    color: #252E8A;
+    background-color: #f2f2f2;
+    text-transform: uppercase;
+    font-family: "Poppins", sans-serif;
+    border-radius: 0;
+    border: 0;
+    margin-bottom: 8px
+}
+
+.contact-btn:hover {
+    background-color: #252E8A;
+    color: #fff;
+}
+
+.maininner h1 {
+    text-align: center;
+    font-weight: 300;
+    letter-spacing: 6px;
+}
+
+.maininner h2 {
+    text-align: center;
+    font-weight: 300;
+    letter-spacing: 6px;
+    font-size: 19px;
+}
+
+.maininner h3 {
+    text-align: center;
+    font-weight: 400;
+    font-size: 19px;
+}
+
+.classesinner p {
+    text-align: justify;
+    padding: 10px;
+}
 
 /* Mobile */
 @media only screen and (max-width: 768px) {
@@ -227,6 +272,33 @@ footer {
 
     .logo {
         text-align: center;
+        height: 80px;
+    }
+
+    .logo img {
+        height: 80px;
+    }
+
+    .menu {
+        margin-bottom: 1px
+    }
+
+    .menu-item {
+        font-size: 15.5px;
+        display: block;
+        width: 100%;
+        height: 25px;
+        padding: 0;
+        margin-left: 0px;
+    }
+
+    .menu-item i {
+        display: inline;
+    }
+
+    /* Hero */
+    .hero {
+        height: 40vh;
     }
 
     /* Hero Animation Disable */
@@ -237,30 +309,54 @@ footer {
     /* Hero Overlay */
     .overlayhero {
         position: absolute;
-        bottom: 4%;
+        top: 1%;
         left: 5%;
         margin: auto;
         width: 90%;
     }
 
     .overlayhero h1 {
-        padding: 2%;
+        padding: 1%;
         background-color: #0000007a;
         width: 100%;
         text-align: center;
         color: #f2f2f2;
         text-transform: uppercase;
         margin: 0;
+        font-size: 25px;
     }
 
     .overlayhero h2 {
-        padding: 2%;
+        padding: 1%;
         background-color: #0000007a;
         width: 100%;
         text-align: center;
         color: #f2f2f2;
         text-transform: uppercase;
         margin: 0;
-        font-size: 16px;
+        font-size: 14px;
+    }
+
+    /* Main Classes */
+    .classleftcard {
+        margin-right: 0;
+        width: 100%
+    }
+
+    .classcentercard {
+        margin-right: 0;
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .classrightcard {
+        margin-left: 0;
+        width: 100%;
+    }
+
+    /*Footer*/
+    .copyright,
+    .socials {
+        text-align: center;
     }
 }

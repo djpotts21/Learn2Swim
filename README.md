@@ -2,6 +2,45 @@
 # Learn2Swim Website
 
 A responsive website built in Bootstrap, HTML and CSS. The website and company are fictious and have been created for the purpose of Project/Milestone 1 'User Centric Frontend Development Milestone Project' of the Code Institute Level 5 Diploma in Web Application Development. The company, address, logo and information contained on the website are fictious.
+
+## Scope of work
+### Project Goals
+1. A responsive website available on all devices.
+2. The website should be easy to read for all users.
+3. The website should have five pages; Home, Timetable, About, Contact and Prices.
+4. The website should compliment the colors of the logo.
+
+### Deliverables
+#### Home Page
+1. A home page with a simple menu linking to the other four pages. 
+2. The footer should contain copyright to the left and social icons with links on the right.
+3. The home page should also consist of a Hero style banner with a slight animation to capture the visitors attention.
+3. There should be an overlay welcoming the visitor to the site
+4. Below the Hero will be three columns for classes, with an image, small description of the class and a button to click through to the contact us page
+   
+#### Timetable Page
+1. A timetable page with a simple menu linking to the other four pages. 
+2. The footer should contain copyright to the left and social icons with links on the right.
+3. The timetable page should also consist othe title under the header.
+3. The table which will display the contents of the pool's operating times will take the remaining space.
+
+#### About Page
+1. A timetable page with a simple menu linking to the other four pages. 
+2. The footer should contain copyright to the left and social icons with links on the right.
+3. The timetable page should also consist othe title under the header.
+3. The table which will display the contents of the pool's operating times will take the remaining space.
+
+#### Contact Page
+1. A timetable page with a simple menu linking to the other four pages. 
+2. The footer should contain copyright to the left and social icons with links on the right.
+3. On the left of the page is static content showing the contact information relating to the company.
+4. On the right of the page there should be a contact form that submits via email to the client and customer.
+
+#### Prices Page
+1. A prices page with a simple menu linking to the other four pages.
+2. The footer should contain copyright to the left and social icons with links on the right.
+3. The prices page should also consist othe title under the header.
+3. The table which will display the contents of the price structure and will take the remaining space.
  
 ## Author
 [@djpotts21](https://github.com/djpotts21)
@@ -15,27 +54,27 @@ Having worked with WordPress since 2011, I am very confident in my ability to bu
 ## Wireframe
 ### Desktop View
 
--[Homepage](assets/wireframe/1-Homepage-2x.png)
--[About](assets/wireframe/4-About-2x.png)
--[Timetable](assets/wireframe/7-Timetable-2x.png)
--[Contact](assets/wireframe/10-Contact-2x.png)
--[Prices](assets/wireframe/13-Prices-2x.png)
+- [Homepage](assets/wireframe/1-Homepage-2x.png)
+- [About](assets/wireframe/4-About-2x.png)
+- [Timetable](assets/wireframe/7-Timetable-2x.png)
+- [Contact](assets/wireframe/10-Contact-2x.png)
+- [Prices](assets/wireframe/13-Prices-2x.png)
 
 ### Tablet View
 
--[Homepage](assets/wireframe/2-_Tablet-Homepage-2x.png)
--[About](assets/wireframe/5-_Tablet-About-2x.png)
--[Timetable](assets/wireframe/8-_Tablet-Timetable-2x.png)
--[Contact](assets/wireframe/11-_Tablet-Contact-2x.png)
--[Prices](assets/wireframe/14-_Tablet-Prices-2x.png)
+- [Homepage](assets/wireframe/2-_Tablet-Homepage-2x.png)
+- [About](assets/wireframe/5-_Tablet-About-2x.png)
+- [Timetable](assets/wireframe/8-_Tablet-Timetable-2x.png)
+- [Contact](assets/wireframe/11-_Tablet-Contact-2x.png)
+- [Prices](assets/wireframe/14-_Tablet-Prices-2x.png)
 
 ### Mobile View
 
--[Homepage](assets/wireframe/3-_Mobile-Homepage-2x.png)
--[About](assets/wireframe/6-_Mobile-About-2x.png)
--[Timetable](assets/wireframe/9-_Mobile-Timetable-2x.png)
--[Contact](assets/wireframe/12-_Mobile-Contact-2x.png)
--[Prices](assets/wireframe/15-_Mobile-Timetable-Copy-2x.png)
+- [Homepage](assets/wireframe/3-_Mobile-Homepage-2x.png)
+- [About](assets/wireframe/6-_Mobile-About-2x.png)
+- [Timetable](assets/wireframe/9-_Mobile-Timetable-2x.png)
+- [Contact](assets/wireframe/12-_Mobile-Contact-2x.png)
+- [Prices](assets/wireframe/15-_Mobile-Timetable-Copy-2x.png)
 
 ## Demo
 
@@ -74,7 +113,14 @@ The primary colors of the website are made up of four colors;
 - Class 3 photo of a child swimming with an orange swimming aid 'swim-619074.jpg' is by [TaniaVdB on Pixabay](https://pixabay.com/photos/swim-swimming-pool-swimming-noodle-619074/)
 - Learn2swim logo was created for free using [Logomaker.com](https://www.logomaker.com/diy-logo-packages?lid=941956978)
 
-## FAQ
+### Third Party Services
+
+- Web 3 Forms for providing the api url to submit any form oontent to and sending to an email. [URL: https://web3forms.com/](https://web3forms.com/)
+- The paragraph under the heading "Baby and Toddlers" on the home page starting "Teach a baby to swim..." was written by [Easy-Peasy.AI](https://easy-peasy.ai/) also known as ChatGPT, the statement was sent "write a small paragraph explaining the benefits of teaching a baby to swim" and the AI responded with the paragraph.
+
+## Bugs & Fixes
+1. Classes Images on home page were streching out of ratio. 
+   1. FIX: After some research the css property of object-fit was used to set the image to cover so the image ratio would remain at 1:1. Thanks to [W3schools - CSS The object-fit Property](https://www.w3schools.com/css/css3_object-fit.asp#:~:text=contain%20%2D%20The%20image%20keeps%20its,will%20be%20clipped%20to%20fit)
 
 #### Question TBC
 Answer TBC.

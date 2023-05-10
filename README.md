@@ -129,8 +129,8 @@ The primary colors of the website are made up of four colors;
 - The paragraph under the heading "Why should an adult learn to swim?" on the home page starting "Teach an adult to swim..." was written by [Easy-Peasy.AI](https://easy-peasy.ai/) also known as ChatGPT, the statement was sent "write a small paragraph explaining the benefits of teaching an adult to swim" and the AI responded with the paragraph.
 - The paragrah on the about us page explaining the story of the fictious company Learn2swim was written by [Easy-Peasy.AI](https://easy-peasy.ai/) also known as ChatGPT the statement was sent "write a company history for a website about the company learn 2 swim based in Northumberland in the United Kingdom" and the AI responded with the paragraph.
 - Keith's Bio was written by [Easy-Peasy.AI](https://easy-peasy.ai/) also known as ChatGPT the statement was sent "write a short personal bio for a swimming instructor called keith"
-  - - Samanthas's Bio was written by [Easy-Peasy.AI](https://easy-peasy.ai/) also known as ChatGPT the statement was sent "write a short personal bio for a swimming instructor called samantha she is a keen dancer"
-  - - Johan's Bio was written by [Easy-Peasy.AI](https://easy-peasy.ai/) also known as ChatGPT the statement was sent "write a short personal bio for a swimming instructor called johan he looks a bit like Eminem"
+- Samanthas's Bio was written by [Easy-Peasy.AI](https://easy-peasy.ai/) also known as ChatGPT the statement was sent "write a short personal bio for a swimming instructor called samantha she is a keen dancer"
+- Johan's Bio was written by [Easy-Peasy.AI](https://easy-peasy.ai/) also known as ChatGPT the statement was sent "write a short personal bio for a swimming instructor called johan he looks a bit like Eminem"
 
 ## Bugs & Fixes
 

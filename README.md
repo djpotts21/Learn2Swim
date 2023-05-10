@@ -88,7 +88,7 @@ Having worked with WordPress since 2011, I am very confident in my ability to bu
 
 ## Demo
 
-[Click here to view the site on my Git Pages](#)
+[Click here to view the site on my Git Pages](https://djpotts21.github.io/Learn2Swim/)
 
 ## Features
 

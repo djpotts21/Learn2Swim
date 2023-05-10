@@ -95,7 +95,7 @@ nav i {
 
 /* Hero */
 .hero {
-    background: url("assets/images/swimming-lessons-7339440.jpg") center no-repeat;
+    background: url("../images/swimming-lessons-7339440.jpg") center no-repeat;
     background-size: cover;
     height: 60vh;
     width: 100%;

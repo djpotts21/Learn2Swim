@@ -94,9 +94,12 @@ Having worked with WordPress since 2011, I am very confident in my ability to bu
 
 TBC
 
-## Tech Stack
+## Tech
 
-TBC
+- HTML
+- CSS
+- Bootstrap 5.2.3
+- Fontawsome 6.4.0
 
 ## Colors
 
@@ -132,16 +135,19 @@ The primary colors of the website are made up of four colors;
 - Samanthas's Bio was written by [Easy-Peasy.AI](https://easy-peasy.ai/) also known as ChatGPT the statement was sent "write a short personal bio for a swimming instructor called samantha she is a keen dancer"
 - Johan's Bio was written by [Easy-Peasy.AI](https://easy-peasy.ai/) also known as ChatGPT the statement was sent "write a short personal bio for a swimming instructor called johan he looks a bit like Eminem"
 
+### Fonts
+
+- Poppins font provided by [Google Fonts](https://fonts.google.com/specimen/Poppins) which is used in the headings.  
+  - Linked in the header of each html using Google provided code to link and preconnect.
+- Roboto font provided by [Google Fonts](https://fonts.google.com/specimen/Roboto) which is used in the content.
+  - Linked in the header of each html using Google provided code to link and preconnect.
+
 ## Bugs & Fixes
 
 1. Classes Images on home page were streching out of ratio.
    1. FIX: After some research the css property of object-fit was used to set the image to cover so the image ratio would remain at 1:1. Thanks to [W3schools - CSS The object-fit Property](https://www.w3schools.com/css/css3_object-fit.asp#:~:text=contain%20%2D%20The%20image%20keeps%20its,will%20be%20clipped%20to%20fit)
 2. Timetable page - Tables were running off page on mobile view. If I reduced the content size to fit width of device, it would be unreadable.
    1. Fix: I split the table in to three sections for mobile and created two classes which the displayed the desktop table class only on the desktop view and hiding the mobile tables. Whilst on mobile hiding the desktop tables but displaying the split table on mobiles.
-
-#### Question TBC
-
-Answer TBC.
 
 ## Feedback
 

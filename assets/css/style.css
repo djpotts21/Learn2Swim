@@ -1,4 +1,4 @@
-* {
+    * {
     clear: both;
     margin: 0;
 }
@@ -351,6 +351,11 @@ td.child {
 .contactinner h2 {
     text-align: left;
 }
+.contact-info iframe {
+    border:0;
+    width: 100%;
+    height:300px;
+}
 
 /* Mobile */
 @media only screen and (max-width: 768px) {
@@ -472,24 +477,24 @@ td.child {
         border-top: 1px solid black;
         margin-bottom: 15px;
     }
-.contact-info li {
-    text-align: center;
-}
-.contactform{
-    text-align: center;
-}
-.contactform .form-control {
-    text-align: center;
-}
-.contactform .btn {
-    width:100%;
-}
-.contact-info li {
-    font-size: 20px;
-    line-height: 150%;
-}
-.contactinner h2 {
-    margin-top: 20px;
-    text-align: center;
-}
+    .contact-info li {
+        text-align: center;
+    }
+    .contactform{
+        text-align: center;
+    }
+    .contactform .form-control {
+        text-align: center;
+    }
+    .contactform .btn {
+        width:100%;
+    }
+    .contact-info li {
+        font-size: 20px;
+        line-height: 150%;
+    }
+    .contactinner h2 {
+        margin-top: 20px;
+        text-align: center;
+    }
 }

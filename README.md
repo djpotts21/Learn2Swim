@@ -90,9 +90,17 @@ Having worked with WordPress since 2011, I am very confident in my ability to bu
 
 [Click here to view the site on my Git Pages](https://djpotts21.github.io/Learn2Swim/)
 
-## Features
+## Testing
 
-TBC
+HTML Testing was conducted using the [Markup Validation Service by W3C](https://validator.w3.org/#validate_by_input), each page was tested by direct input, the results are linked below.
+- [Home Page](/assets/pdf/homeresults.pdf)
+- [Timetable](/assets/pdf/timetableresults.pdf)
+- [About](/assets/pdf/aboutusresults.pdf)
+- [Contact](/assets/pdf/contactresults.pdf)
+- [Prices](/assets/pdf/pricesresults.pdf)
+
+CSS Testing was conducted using the [Markup Validation Service by W3C](https://jigsaw.w3.org/css-validator/#validate_by_input), each page was tested by direct input, the results are linked below.
+- [Style.css](/assets/pdf/styleresults.pdf)
 
 ## Tech
 
@@ -112,6 +120,13 @@ The primary colors of the website are made up of four colors;
 - Black  | Black Hex #000000 | rgb(0, 0, 0) | hsl(0, 0%, 0%)
 
 ## Acknowledgements
+
+### Fonts
+
+- Poppins font provided by [Google Fonts](https://fonts.google.com/specimen/Poppins) which is used in the headings.  
+  - Linked in the header of each html using Google provided code to link and preconnect.
+- Roboto font provided by [Google Fonts](https://fonts.google.com/specimen/Roboto) which is used in the content.
+  - Linked in the header of each html using Google provided code to link and preconnect.
 
 ### Media
 
@@ -134,13 +149,6 @@ The primary colors of the website are made up of four colors;
 - Keith's Bio was written by [Easy-Peasy.AI](https://easy-peasy.ai/) also known as ChatGPT the statement was sent "write a short personal bio for a swimming instructor called keith"
 - Samanthas's Bio was written by [Easy-Peasy.AI](https://easy-peasy.ai/) also known as ChatGPT the statement was sent "write a short personal bio for a swimming instructor called samantha she is a keen dancer"
 - Johan's Bio was written by [Easy-Peasy.AI](https://easy-peasy.ai/) also known as ChatGPT the statement was sent "write a short personal bio for a swimming instructor called johan he looks a bit like Eminem"
-
-### Fonts
-
-- Poppins font provided by [Google Fonts](https://fonts.google.com/specimen/Poppins) which is used in the headings.  
-  - Linked in the header of each html using Google provided code to link and preconnect.
-- Roboto font provided by [Google Fonts](https://fonts.google.com/specimen/Roboto) which is used in the content.
-  - Linked in the header of each html using Google provided code to link and preconnect.
 
 ## Bugs & Fixes
 

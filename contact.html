@@ -71,7 +71,7 @@
                     </div>
                     <div class="col-sm-12 col-md-6">
                         <h2>Contact Form</h2>
-                        <form action="#disabled_due_to_spam" method="POST" id="form" class="contactform">
+                        <form action="https://api.web3forms.com/submit" method="POST" id="form" class="contactform">
                             <input type="hidden" name="access_key" value="611c058f-d4ec-4209-8044-cf3951c2f630">
                             <input type="hidden" name="subject" value="Web Form from Learn2Swim">
                             <input type="hidden" name="redirect" value="https://web3forms.com/success">
@@ -83,6 +83,7 @@
                               <input type="text" name="phone" id="phone" placeholder="01234 567890" required class="form-control">
                             <label for="message">Your Message</label>
                               <textarea rows="5" name="message" id="message" placeholder="Type your message here" class="form-control" required></textarea>
+                              <div class="h-captcha" data-captcha="true"></div>
                             <button type="submit" class="btn btn-primary">Send Message</button>
                          </form>
                     </div>

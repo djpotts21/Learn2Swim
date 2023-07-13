@@ -86,6 +86,32 @@ Having worked with WordPress since 2011, I am very confident in my ability to bu
 - [Contact](assets/wireframe/12-_Mobile-Contact-2x.png)
 - [Prices](assets/wireframe/15-_Mobile-Timetable-Copy-2x.png)
 
+## Complete Project Screenshots
+
+### Desktop View
+
+- [Homepage](assets/screenshots-complete/full-home.png)
+- [About](assets/screenshots-complete/full-about.png)
+- [Timetable](assets/screenshots-complete/full-timetable.png)
+- [Contact](assets/screenshots-complete/full-contact.png)
+- [Prices](assets/screenshots-complete/full-prices.png)
+
+### Tablet View
+
+- [Homepage](assets/screenshots-complete/tablet-home.png)
+- [About](assets/screenshots-complete/tablet-about.png)
+- [Timetable](assets/screenshots-complete/tablet-timetable.png)
+- [Contact](assets/screenshots-complete/tablet-contact.png)
+- [Prices](assets/screenshots-complete/tablet-prices.png)
+
+### Mobile View
+
+- [Homepage](assets/screenshots-complete/mobile-home.png)
+- [About](assets/screenshots-complete/mobile-about.png)
+- [Timetable](assets/screenshots-complete/mobile-timetable.png)
+- [Contact](assets/screenshots-complete/mobile-contact.png)
+- [Prices](assets/screenshots-complete/mobile-prices.png)
+
 ## Demo
 
 [Click here to view the site on my Git Pages](https://djpotts21.github.io/Learn2Swim/)
